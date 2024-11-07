@@ -1,0 +1,27 @@
+{
+  "name": "node-express-2.0",
+  "version": "1.0.0",
+  "description": "twitter project",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "nodemon src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ANAND9963/Node-Express-2.0.git"
+  },
+  "author": "Anand Yannamaneni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ANAND9963/Node-Express-2.0/issues"
+  },
+  "homepage": "https://github.com/ANAND9963/Node-Express-2.0#readme",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
